@@ -1,2 +1,5 @@
-# python-intermediario
-Python Intermediário
+# Python Intermediário
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Funções, Dicionários, Módulos, Programação Funcional e +
